@@ -1,0 +1,250 @@
+    1  wslfetch
+    2  sudo apt install
+    3  wslfetch
+    4  cd /path/to/directory
+    5  cd
+    6  cd ~
+    7  wsl --list --verbose
+    8  cd
+    9  cd /path/to/directory
+   10  cd ..
+   11  cd
+   12  cd foldername
+   13  ls > file1.txt
+   14  ls
+   15  cat file1.txt
+   16  ls >> file1.txt
+   17  cat file1.txt
+   18  clear
+   19  echo "this is going to be a ne line" >> file1.txt
+   20  cat file1.txt
+   21  clear
+   22  cd /var/log
+   23  ls
+   24  ls a*
+   25  ls
+   26  ls ?p*
+   27  ls *.???
+   28  ls a*.???
+   29  ls [au]
+   30  cd
+   31  cd~
+   32  cd ~
+   33  home
+   34  dir1
+   35  clear
+   36  pwd
+   37  tianzheng
+   38  >tianzheng
+   39  cd ..
+   40  /tianzhegn
+   41  /tianzheng
+   42  ls
+   43  tianzheng
+   44  next
+   45  clear
+   46  pwd
+   47  cd ..
+   48  pwd
+   49  tianzheng
+   50  home
+   51  pwd
+   52  mkdir mydir1
+   53  ls
+   54  mkdir dir1 dir2 dir3
+   55  ls
+   56  cd
+   57  cd dir2
+   58  cd ..
+   59  cd dir1
+   60  clear
+   61  ls
+   62  ls text1
+   63  clear
+   64  ls 
+   65  nano
+   66  ls
+   67  pwd
+   68  cd ..
+   69  cd /etc
+   70  nano
+   71  nano /home/tianzheng/dir1/newfile
+   72  ls
+   73  cd ..
+   74  ls
+   75  ls > file.txt
+   76  ls > file1.txt
+   77  ls
+   78  cat file1.txt
+   79  ls
+   80  ls > newfile.txt
+   81  sudo apt update
+   82  sudo apt upgrade
+   83  sudo apt update
+   84  sudo apt install bpython
+   85  bpython
+   86  pwd
+   87  mmkdir mydir1
+   88  ls
+   89  cd dir2
+   90  cd ..
+   91  cd dir1
+   92  clear
+   93  ls
+   94  namo
+   95  nano 
+   96  ls
+   97  pwd
+   98  cd ..
+   99  cd /etc
+  100  nano /home/tianzheng/dir1/new
+  101  cd ..
+  102  ls > new.txt
+  103  ls > file1.txt
+  104  clear
+  105  ls > new.txt
+  106  cat
+  107  ls
+  108  ls > file1.txt
+  109  ls
+  110  cat file1.txt
+  111  ls dir1/ > file1.txt
+  112  cat file1.txt
+  113  ls >> file1.txt
+  114  cat file1.txt
+  115  cleaar
+  116  clear
+  117  echo "this isgoing  to be a new line" >>file1.txt
+  118  cat file1.txt
+  119  clear
+  120  cd /var/log
+  121  ls
+  122  ls a*
+  123  ls au*
+  124  ls dp?g.log
+  125  ls vm?a*.log
+  126  clear
+  127  ls
+  128  ls ?p*
+  129  ls *.???
+  130  ls a*.???
+  131  ls [au]
+  132  ls [au]*
+  133  clear
+  134  mkdir dir11
+  135  mkdie dir1
+  136  mkdir dir11
+  137  mkdir Desktop/dir12
+  138  rmdir dir11
+  139  clear
+  140  cd ..
+  141  cd..
+  142  cd ..
+  143  clear
+  144  mkdir dir11
+  145  cd ..
+  146  mkdir dir11
+  147  mkdir Desktop/dir12
+  148  rmdir dir11
+  149  ls
+  150  rm dir2
+  151  ls dir2/
+  152  ls
+  153  rm file1.txt
+  154  ls
+  155  ls dir1
+  156  rm file1.txt
+  157  ls dir1
+  158  rm dir1
+  159  clear
+  160  rm -r dir1
+  161  ls
+  162  touch file1.txt
+  163  touch file2.txt
+  164  ls
+  165  cp file1.txt Desktop/
+  166  cd file1.txt tianzheng/
+  167  cd file1.txt ZhengTian
+  168  cp file1.txt ZhengTian
+  169  ls ZhengTian/
+  170  cp file1.txt ZhengTian/
+  171  cp file1.txt docker-desktop-data/
+  172  clear
+  173  ls Desktop
+  174  ls
+  175  ls ZhengTian
+  176  clear
+  177  ls
+  178  cp file1.txt Desktop/
+  179  ls Desktop/
+  180  cp file1.txt Desktop/file11.txt
+  181  ls Desktop/
+  182  dp dir3/ Desktop/
+  183  cp dir3/ Desktop/
+  184  cp -r dir3/ Desktop/
+  185  ls Desktop/
+  186  clear
+  187  ls
+  188  mv *.txt Desktop/
+  189  ls
+  190  ls Desktop/
+  191  ls
+  192  mv mydir1/ Desktop/mydir2
+  193  ls Desktop/
+  194  ls
+  195  ls Desktop/mydir2/
+  196  touch Desktop/mydir2/file1.txt
+  197  ls Desktop/mydir2/
+  198  touch Desktop/mydir2/file.txt
+  199  mkdir Dess+ktop/mydir2/newdir
+  200  mkdir Desktop/mydir2/newdir
+  201  ls Desktop/mydir2/
+  202  clear
+  203  mv Desktop/mydir2/
+  204  mv Desktop/mydir2/ /home/tianzheng/
+  205  ls
+  206  ls mydir2/
+  207  ls
+  208  mv file1.txt filenew.txt
+  209  mv mydir2 mydir3
+  210  ls
+  211  clear
+  212  cd Desktop/
+  213  ls
+  214  cat file1.txt
+  215  clear
+  216  less file1.txt
+  217  head file1.txt
+  218  head -n 2 hello.txt
+  219  ls
+  220  head -n 2file1.txt
+  221  clear
+  222  ls
+  223  head -n 2 file1.txt
+  224  tail hello.txt
+  225  clear
+  226  ls
+  227  tail file1.txt
+  228  tail -n 2 file1.txt
+  229  grep Linux file1.txt
+  230  ls
+  231  ls | head -4
+  232  ls | head -4 | tail -1
+  233  clear
+  234  cd /etc
+  235  ls
+  236  nano ucf.conf
+  237  clear
+  238  cd..
+  239  cd ..
+  240  sudo su
+  241  touch.file111txt
+  242  touch .file111.txt
+  243  ls
+  244  ls -a
+  245  history >linux1.txt
+  246  explorer.txt
+  247  cd ..
+  248  cd ~
+  249  clear
+  250  history >linux1.txt
